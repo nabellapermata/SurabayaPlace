@@ -25,7 +25,17 @@
       });
   });
   $(document).ready(function(){
-    $("#myBtn2").click(function(){
-    $("#myModal2").modal();
+    $("#myBtn6").click(function(){
+    $("#myModal6").modal();
+      });
+  });
+  $(document).ready(function(){
+    $("#myBtn7").click(function(){
+    $("#myModal7").modal();
+      });
+  });
+  $(document).ready(function(){
+    $("#myBtn8").click(function(){
+    $("#myModal8").modal();
       });
   });
